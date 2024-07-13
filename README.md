@@ -2,6 +2,8 @@
 
 A simple web application built with Python, Flask, HTML, CSS, Bootstrap, JavaScript and SQLite.
 
+NOW ONLINE HOSTED AT render.com - [https://short-url-ubwh.onrender.com/](https://short-url-ubwh.onrender.com/)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -45,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Shendrit Hyseni - shendrit.hyseni2004@gmail.com
 
-Project Link: [[https://github.com/Shendrit-Hy/URL-Shortener](https://github.com/Shendrit-Hy/URL-Shortener)]
+Project Link: [https://github.com/Shendrit-Hy/URL-Shortener](https://github.com/Shendrit-Hy/URL-Shortener)
