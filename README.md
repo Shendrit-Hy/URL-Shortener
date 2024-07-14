@@ -45,6 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Shendrit Hyseni - shendrit.hyseni2004@gmail.com
+Shendrit Hyseni - shendrit.hy@gmail.com
 
 Project Link: [https://github.com/Shendrit-Hy/URL-Shortener](https://github.com/Shendrit-Hy/URL-Shortener)
